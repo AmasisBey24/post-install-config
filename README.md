@@ -128,8 +128,8 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 
 	
 <p align="center">
-<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f665476493052752e706e67 copy" src="https://github.com/user-attachments/assets/24e2409e-1934-45b7-8f04-a565ff9e597c" />
-<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f364f55354b71582e706e67 copy" src="https://github.com/user-attachments/assets/68bcae4c-ccf9-46f1-a2d3-77da9ec36b0d" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f48505350484e552e706e67 copy" src="https://github.com/user-attachments/assets/bab36935-8824-4ab2-af49-7697e7ce2d02" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f686f747831776f2e706e67 copy" src="https://github.com/user-attachments/assets/a3920163-7ae7-45c0-890b-42dd8958994d" />
 </p>
 
 - Create another agent and replace Jane with John.
