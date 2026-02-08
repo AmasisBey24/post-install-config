@@ -44,7 +44,7 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 	- If you need help installing osTicket, please see my tutorial [here](https://github.com/RoslyndWilliams/osTicket--Prerequisites-and-Installation)
 
 <p align="center">
-<img src="https://i.imgur.com/gAXVBO2.png" height="80%" width="80%" alt="Azure Free Account"/>	
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f67415856424f322e706e67 copy" src="https://github.com/user-attachments/assets/8c98f559-3a2a-47ef-8cc3-5d3053dcd55e" />
 
 
 <h3>Step 2: Configure Roles </h3>
