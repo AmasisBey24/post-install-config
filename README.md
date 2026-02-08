@@ -128,7 +128,8 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 
 	
 <p align="center">
-<img src="https://i.imgur.com/HPSPHNU.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/hotx1wo.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f665476493052752e706e67 copy" src="https://github.com/user-attachments/assets/24e2409e-1934-45b7-8f04-a565ff9e597c" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f364f55354b71582e706e67 copy" src="https://github.com/user-attachments/assets/68bcae4c-ccf9-46f1-a2d3-77da9ec36b0d" />
 </p>
 
 - Create another agent and replace Jane with John.
