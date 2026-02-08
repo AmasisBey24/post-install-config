@@ -97,7 +97,7 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 		- Registration Required: Require registration and login to create tickets 
 		
 <p align="center">
-<img src="https://i.imgur.com/kcd1jRf.png" height="80%" width="80%" alt="Azure Free Account"/>		
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f6b6364316a52662e706e67 copy" src="https://github.com/user-attachments/assets/fda0222a-a725-469d-ae86-3289f05b06ba" />
 
 
 <h3>Step 6: Configure Agents</h3>
