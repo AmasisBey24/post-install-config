@@ -85,8 +85,9 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 - Select Create Team
 	
 <p align="center">
-<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f344969655338302e706e67 copy" src="https://github.com/user-attachments/assets/e55127d9-261b-46df-89c8-699992316a12" />
-<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f76367a7a4e334e2e706e67 copy" src="https://github.com/user-attachments/assets/1d916cf4-3448-4223-9def-5310e8e970fb" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f76367a7a4e334e2e706e67 copy" src="https://github.com/user-attachments/assets/e3d1ae8c-3b61-4ac6-9948-80f4281a7814" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f344969655338302e706e67 copy" src="https://github.com/user-attachments/assets/6704bec1-d90d-4000-88d5-397db62cea1a" />
+
 </p>
 
 <h3>Step 5: Allow Anyone to Create Tickets</h3>
