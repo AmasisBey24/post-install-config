@@ -85,7 +85,8 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 - Select Create Team
 	
 <p align="center">
-<img src="https://i.imgur.com/v6zzN3N.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/4IieS80.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f344969655338302e706e67 copy" src="https://github.com/user-attachments/assets/e55127d9-261b-46df-89c8-699992316a12" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f76367a7a4e334e2e706e67 copy" src="https://github.com/user-attachments/assets/1d916cf4-3448-4223-9def-5310e8e970fb" />
 </p>
 
 <h3>Step 5: Allow Anyone to Create Tickets</h3>
