@@ -111,8 +111,8 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 		- Uncheck the box that says "Require Password Change at Next Login"
 		- Select set
 		
-<p align="center">
-<img src="https://i.imgur.com/fTvI0Ru.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/6OU5KqX.png" height="70%" width="70%" alt="Azure Free Services"/>
+<p align="center"><img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f665476493052752e706e67 copy" src="https://github.com/user-attachments/assets/6e63ff5e-5d46-4f51-9261-b1889bb66838" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f364f55354b71582e706e67 copy" src="https://github.com/user-attachments/assets/a7086331-65b5-469c-98e5-da900d5c3ed2" />
 </p>
 
 - Select the Access tab 
