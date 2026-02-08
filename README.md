@@ -71,7 +71,8 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 
 
 <p align="center">
-<img src="https://i.imgur.com/f2uEloL.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/X2dXwjY.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f663275456c6f4c2e706e67 copy" src="https://github.com/user-attachments/assets/68e913fd-eb97-470d-a7b6-76f9c2d0d1ca" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f58326458776a592e706e67 copy" src="https://github.com/user-attachments/assets/26a03866-5bcf-425c-91ef-b3cfa7c04883" />
 </p>
 
 
