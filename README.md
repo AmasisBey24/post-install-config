@@ -57,7 +57,8 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 - Select Add Role
 	
 <p align="center">
-<img src="https://i.imgur.com/9tiOON2.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/CfCzRRk.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f3974694f4f4e322e706e67 copy" src="https://github.com/user-attachments/assets/d39995ad-c0ba-4853-8638-0e61bd4e3daf" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f4366437a52526b2e706e67 copy" src="https://github.com/user-attachments/assets/7e4d0941-fd83-43fe-a4d9-624d536fff6c" />
 </p>
 
 
