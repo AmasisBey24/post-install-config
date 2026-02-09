@@ -140,7 +140,8 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 		- Select Department > Support > Save Changes
 		
 <p align="center">
-<img src="https://i.imgur.com/qQ8ckBr.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/KVPsUb4.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f715138636b42722e706e67 copy" src="https://github.com/user-attachments/assets/c8a27588-cf26-4d30-b870-34b252e6962d" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f4b5650735562342e706e67 copy" src="https://github.com/user-attachments/assets/d7a4b848-e389-41ac-8034-1f375d43c0ad" />
 </p>
  
      
