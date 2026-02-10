@@ -179,7 +179,8 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 	- Select Add Plan
 	
 <p align="center">
-<img src="https://i.imgur.com/fMR4yMR.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/3tQnihq.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f664d5234794d522e706e67 copy" src="https://github.com/user-attachments/assets/6988840f-2306-4692-8567-a3b7efd52fe9" />
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f3374516e6968712e706e67 copy" src="https://github.com/user-attachments/assets/c5ca0cd2-86ff-43f3-bed1-3dda940aae07" />
 </p>
 
 	- Name: SEV-B
@@ -188,7 +189,7 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 	- Select Add Plan
 	
 <p align="center">
-<img src="https://i.imgur.com/pAbQPEP.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f704162515045502e706e67 copy" src="https://github.com/user-attachments/assets/44ef1e90-8ecd-4b1e-8900-b91a2ec0a706" />
 
 	- Name: SEV-C 
 	- Grace Period: 8
@@ -196,7 +197,7 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 	- Select Add Plan
 
 <p align="center">
-<img src="https://i.imgur.com/5cgn0oz.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f3563676e306f7a2e706e67 copy" src="https://github.com/user-attachments/assets/f262ddba-639c-476a-a94f-8da008a76ac2" />
 
 
 
