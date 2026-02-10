@@ -213,7 +213,7 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 - Select Add Topic for each topic
 
 <p align="center">
-<img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f75466d5379714b2e706e67 copy" src="https://github.com/user-attachments/assets/7fe30476-2dde-4c30-9829-242239004fd5" />
 
 
 
