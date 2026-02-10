@@ -151,7 +151,7 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 </h3>
 
 <p align="center">
-<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f555571434b31642e706e67 copy" src="https://github.com/user-attachments/assets/728c313e-d764-4a29-9149-661a9fa7b799" />
+<img width="80%" height="80%" alt="OSTicket547400091-728c313e-d764-4a29-9149-661a9fa7b799 copy" src="https://github.com/user-attachments/assets/1d12c212-9230-40b9-8399-06c5b9d05d49" />
 	
 - Select the Users tab to create a user
 	- Email Address: Karen(@)osticket.com
