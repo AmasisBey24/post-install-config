@@ -150,7 +150,7 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/UUqCK1d.png" height="80%" width="80%" alt="Azure Free Account"/>		
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f555571434b31642e706e67 copy" src="https://github.com/user-attachments/assets/728c313e-d764-4a29-9149-661a9fa7b799" />
 	
 - Select the Users tab to create a user
 	- Email Address: Karen(@)osticket.com
@@ -158,7 +158,7 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 	- Select Add User
 	
 <p align="center">
-<img src="https://i.imgur.com/wpTn12W.png" height="80%" width="80%" alt="Azure Free Account"/>			
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f7770546e3132572e706e67 copy" src="https://github.com/user-attachments/assets/5c70b681-667f-4164-8aaa-ce81c508da3c" />
 	
  - Select the User tab again to create another user
 	- Email Address: Ken(@)osticket.com
@@ -166,7 +166,7 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 	- Select Add User
 
 <p align="center">
-<img src="https://i.imgur.com/EXyy5Gq.png" height="80%" width="80%" alt="Azure Free Account"/>		
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f455879793547712e706e67 copy" src="https://github.com/user-attachments/assets/32d2a020-611c-4589-a3ce-64d5548e5333" />
 
 <h3>Step 8:  Configure Service Level Agreements (SLA)
 </h3>
