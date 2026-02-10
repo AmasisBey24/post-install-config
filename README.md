@@ -180,7 +180,7 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 	- Select Add Plan
 	
 <p align="center">
-<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f664d5234794d522e706e67 copy" src="https://github.com/user-attachments/assets/6988840f-2306-4692-8567-a3b7efd52fe9" />
+<img width="80%" height="80%" alt="OSTicket547807152-6988840f-2306-4692-8567-a3b7efd52fe9 copy" src="https://github.com/user-attachments/assets/e5971265-0eed-4eb0-b1d2-6b27f62b998f" />
 <img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f3374516e6968712e706e67 copy" src="https://github.com/user-attachments/assets/c5ca0cd2-86ff-43f3-bed1-3dda940aae07" />
 </p>
 
