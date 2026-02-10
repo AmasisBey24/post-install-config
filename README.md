@@ -71,7 +71,8 @@ Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 
 
 <p align="center">
-<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f663275456c6f4c2e706e67 copy" src="https://github.com/user-attachments/assets/68e913fd-eb97-470d-a7b6-76f9c2d0d1ca" />
+<img width="70%" height="70%" alt="OSTicket546712554-68e913fd-eb97-470d-a7b6-76f9c2d0d1ca copy" src="https://github.com/user-attachments/assets/28c3dadd-a534-4eb2-9637-759fb0dbe6b1" />
+
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f58326458776a592e706e67 copy" src="https://github.com/user-attachments/assets/26a03866-5bcf-425c-91ef-b3cfa7c04883" />
 </p>
 
